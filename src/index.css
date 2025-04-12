@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffe4f3;
+  color: #ff4081;
+}
+.text-pink {
+  color: #ff4081;
+}
+.countdown-box, .content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
